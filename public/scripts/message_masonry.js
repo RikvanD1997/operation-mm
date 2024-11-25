@@ -6,6 +6,7 @@ const message_masonry = new Masonry(msg_container, {
     layoutInstant: true,
     initLayout: false
 });
-window.addEventListener("load", () => {
+// HACK: Delay layout to next frame for Safari shenanigans (layout running before window has correct size values)
+requestAnimationFrame(() => {
     message_masonry.layout();
 });
