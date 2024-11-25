@@ -3,5 +3,9 @@ const message_masonry = new Masonry(msg_container, {
     itemSelector: ".msg",
     gutter: 20,
     fitWidth: true,
-    layoutInstant: true
+    layoutInstant: true,
+    initLayout: false
+});
+window.addEventListener("load", () => {
+    message_masonry.layout();
 });
