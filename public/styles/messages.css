@@ -165,6 +165,9 @@ dialog {
 
   .dialog-close-button {
     display: flex;
+    width: 40px;
+    height: 40px;
+    align-items: center;
     justify-content: center;
     cursor: pointer;
     color: white;
@@ -173,10 +176,8 @@ dialog {
     border-radius: 100px;
     border: none;
     font-family: "Arial";
-    line-height: 1;
     font-size: 2em;
-    padding: 2px;
-    aspect-ratio: 1;
+    line-height: 1;
   }
 }
 
