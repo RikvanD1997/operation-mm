@@ -6,13 +6,14 @@
 <link href="/public/styles/messages.css" rel="stylesheet">
 <link href="/public/styles/header-nav.css" rel="stylesheet">
 <script src="/public/scripts/masonry.min.js" defer></script>
+<script src="/public/scripts/message_masonry.js" defer></script>
 <script src="/public/scripts/message_embed_dialog.js" defer></script>
 {%- endblock head %}
 
 {% block content -%}
 {% include "shared/header-nav.html" %}
 <main>
-  <div id="msg-container" class="msg-container" data-masonry='{ "item-selector": ".msg", "gutter": 20, "fitWidth": true, "layoutInstant": true }'>
+  <div id="msg-container" class="msg-container">
     {% for msg in messages -%}
     <div class="msg">
       {% if msg.video_id -%}
