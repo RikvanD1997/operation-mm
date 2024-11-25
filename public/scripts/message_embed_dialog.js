@@ -11,9 +11,14 @@ function open_video_dialog(video_id) {
     dialog.showModal();
 }
 
-dialog.addEventListener("click", (e) => {
+dialog.addEventListener("pointerdown", (e) => {
     if (e.target === dialog) {
-        dialog.close();
+        window.addEventListener("pointerup", (e) => {
+            if (e.target === dialog) {
+
+                dialog.close();
+            }
+        }, { once: true });
     }
 });
 dialog.addEventListener("close", () => {
