@@ -285,7 +285,7 @@ async fn messages(
             message,
         }));
     })
-    .take(2000)
+    .take(200)
     .collect::<Value>();
     let env = template_engine.acquire_env()?;
     let ctx = context! {messages};
