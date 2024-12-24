@@ -36,19 +36,25 @@ main {
   grid-template-columns: minmax(1rem, 1fr) minmax(300px, 2fr) 0.5rem minmax(300px, 2fr) minmax(1rem, 1fr);
   margin-top: 1rem;
   margin-bottom: 2rem;
+
+  font-family: "Noto Sans JP", "Noto Sans KR", sans-serif;
 }
 
 .timeline__header {
   grid-column: 1 / -1;
   justify-self: center;
   font-family: "Edo SZ", "Tamanegi Kaisho Geki", "Noto Serif KR", serif;
-  font-weight: 500;
   font-size: 4rem;
 }
 
 .timeline__footer {
   grid-column: 1 / -1;
   justify-self: center;
+
+  >img {
+    border: 0.5rem solid white;
+    border-radius: 100%;
+  }
 }
 
 .timeline__separator {
@@ -60,6 +66,7 @@ main {
   content: '';
   position: absolute;
   left: 50%;
+  top: -1%;
   transform: translateX(-50%);
 
   background: no-repeat url("../images/timeline/icon-dice.svg");
@@ -67,47 +74,46 @@ main {
   width: 4rem;
 }
 
-.timeline__first_section {
+.timeline__info {
   grid-column: 4;
   text-align: left;
   justify-self: start;
-  margin: 0rem 1rem 2rem 1rem;
+  margin: 0rem 1rem 4rem 1rem;
 }
-.timeline__first_section:nth-child(2n) {
+.timeline__info:nth-child(2n) {
   grid-column: 2;
   justify-self: end;
   text-align: right;
 }
 
-.timeline__second_section {
+.timeline__media {
   grid-column: 2;
   justify-self: end;
   text-align: right;
-  margin: 0rem 1rem 2rem 1rem;
+  align-content: center;
+  margin: 0rem 1rem 4rem 1rem;
+
+  >img {
+    border-radius: 10px;
+  }
 }
-.timeline__second_section:nth-child(2n+1) {
+.timeline__media:nth-child(2n+1) {
   grid-column: 4;
   justify-self: start;
   text-align: left;
 }
 
 .timeline__date {
-  font-family: "Edo SZ", "Tamanegi Kaisho Geki", "Noto Serif KR", serif;
-  font-weight: 500;
-  font-size: 1.8em;
+  font-size: 1.5em;
+  font-weight: 700;
+  color: white;
 }
 
 .timeline__title {
   font-family: "Edo SZ", "Tamanegi Kaisho Geki", "Noto Serif KR", serif;
-  font-weight: 500;
   font-size: 1.8em;
-  color: white;
 }
 
 .timeline__subtitle {
   font-family: "Noto Sans JP", "Noto Sans KR", sans-serif;
-}
-
-.timeline__image {
-  border-radius: 10px;
 }

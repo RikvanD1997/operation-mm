@@ -1,6 +1,8 @@
 {% extends "shared/base.html" %}
 {% from "shared/header-nav.html" import nav_head, nav_content %}
 {% block head -%}
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Noto+Sans+KR&family=Noto+Serif+KR:wght@800&display=swap" rel="stylesheet">
 {{nav_head}}
 <link href="public/styles/timeline.css" rel="stylesheet">
 <script src="public/scripts/timeline_highlighting.js" defer></script>
@@ -12,19 +14,18 @@
 <main>
   <section class="timeline">
     <div class="timeline__header">
-      <h1>Timeline</h1>
     </div>
     {% for group in grouped_videos %}
     {% for video in group.videos %}
     <div class="timeline__separator"></div>
-    <div class="timeline__first_section">
-      <img class="timeline__image" src="https://i3.ytimg.com/vi/{{ video.video_id }}/maxresdefault.jpg" loading="lazy">
-    </div>
-    <div class="timeline__second_section">
+    <section class="timeline__info">
       <div class="timeline__date">{{ video.timestamp_display }}</div>
       <div class="timeline__title">{{ video.title }}</div>
       <p class="timeline__subtitle">{{ video.blurb }}</p>
-    </div>
+    </section>
+    <section class="timeline__media">
+      <img src="https://i3.ytimg.com/vi/{{ video.video_id }}/maxresdefault.jpg" loading="lazy">
+    </section>
     {% endfor %}
     {% endfor %}
     <div class="timeline__footer">
