@@ -131,10 +131,6 @@ main {
     grid-column: 2 !important;
     grid-row: span 2;
   }
-  .timeline__separator::before {
-    height: 3rem;
-    width: 3rem;
-  }
 
   .timeline__info {
     grid-column: 3 !important;
