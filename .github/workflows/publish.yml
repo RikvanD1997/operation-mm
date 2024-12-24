@@ -2,7 +2,7 @@ name: Publish to GitHub Pages
 
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: [ "timeline", "main", "master" ]
   pull_request:
 
 env:
