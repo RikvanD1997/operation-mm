@@ -11,8 +11,9 @@
 }
 
 body {
-  width: 100%;
   min-height: 100vh;
+  width: 100vw;
+  position: absolute;
   display: grid;
   grid-template-rows: min-content 1fr;
   background: rgb(255 190 0);
@@ -76,9 +77,10 @@ main {
 
 .timeline__info {
   grid-column: 4;
-  text-align: left;
   justify-self: start;
   margin: 0rem 1rem 4rem 1rem;
+  text-align: left;
+  overflow-wrap: anywhere;
 }
 .timeline__info:nth-child(2n) {
   grid-column: 2;
