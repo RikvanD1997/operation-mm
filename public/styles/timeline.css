@@ -80,7 +80,6 @@ main {
   justify-self: start;
   margin: 0rem 1rem 4rem 1rem;
   text-align: left;
-  overflow-wrap: anywhere;
 }
 .timeline__info:nth-child(2n) {
   grid-column: 2;
