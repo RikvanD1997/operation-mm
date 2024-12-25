@@ -12,8 +12,6 @@
 
 body {
   min-height: 100vh;
-  width: 100vw;
-  position: absolute;
   display: grid;
   grid-template-rows: min-content 1fr;
   background: rgb(255 190 0);
@@ -111,7 +109,7 @@ main {
 }
 
 .timeline__title {
-  font-family: "Tamanegi Kaisho Geki", "Edo S2", "Noto Serif KR", serif;
+  font-family: "Edo S2";
   font-size: 1.8em;
 }
 
