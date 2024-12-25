@@ -19,6 +19,7 @@ minijinja = { version = "2.1.1", default-features = false, features = [
   "loader",
   "macros",
 ] }
+minijinja-cli = "1.0.8"
 minijinja-autoreload = "2.1.1"
 rand = "0.8.5"
 rand_pcg = "0.3.1"
