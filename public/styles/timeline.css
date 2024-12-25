@@ -111,7 +111,7 @@ main {
 }
 
 .timeline__title {
-  font-family: "Edo SZ", "Tamanegi Kaisho Geki", "Noto Serif KR", serif;
+  font-family: "Tamanegi Kaisho Geki", "Edo S2", "Noto Serif KR", serif;
   font-size: 1.8em;
 }
 
@@ -148,12 +148,14 @@ main {
   .timeline__info {
     grid-column: 3 !important;
     text-align: left !important;
+    justify-self: start !important;
     margin: 0rem 1rem 1rem 1rem;
   }
 
   .timeline__media {
     grid-column: 3 !important;
     text-align: left !important;
+    justify-self: start !important;
     margin: 0rem 1rem 4rem 1rem;
   }
 }
