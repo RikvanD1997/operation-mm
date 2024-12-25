@@ -20,6 +20,7 @@ jobs:
       - name: Generate static site
         id: generation
         run: |
+          cargo install minijinja-cli
           ./render.sh
           # Print the contents of the newly generated dist/ directory
           echo "The following files have been generated:"
