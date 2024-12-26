@@ -2,7 +2,7 @@
     "messages": [
         {
             "sender_name": "Aggra",
-            "sender_title": "",
+            "sender_title": "Extender of Shorts",
             "message": "I've only been watching your streams regularly since the Mario Kart tourney this past January(in fact that was the first video I watched this year!). I often kick myself over spending the better part of the last three years only watching clips or the odd big collab when they happened, but ultimately I'm glad to be here and wouldn't give up watching the cutest idol rat for anything! The clip I included is one of the most comforting things I've ever experienced in your streams. STREAM KOKORONASHI!",
             "media": {
                 "is_youtube": true,
@@ -26,7 +26,9 @@
             "message": "\"Huge congratulations on 1 million subs, Bae! You have come so far in your idol journey and have been a true inspiration to so many around the world! As one of the many who have WITNESSED you, I am truly glad to be a proud Brat because I got to know and interact with so many amazing folks while watching your journey, which I would never have imagined to be possible for a shy introvert like myself. You have an exciting future ahead with new heights to climb, so keep chasing your dreams, Bae!\"",
             "media": {
                 "is_youtube": false,
-                "path": null
+                "path": null,
+                "width": null,
+                "height": null
             }
         },
         {
@@ -128,7 +130,9 @@
             "message": "hiya bae !!! congrats on a million subs !!!\nit’s so cool to see you get this far, especially after you’ve genuinely helped me in the past few years. you’ve been such a huge inspo and motivation for me and many others, and honestly i can’t thank you enough, even if i’m not that active in chat at all lmao",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/7e6b394972fef8372009d451aa4f463e.jpg"
+                "path": "public/images/messages/7e6b394972fef8372009d451aa4f463e.jpg",
+                "width": 962,
+                "height": 768
             }
         },
         {
@@ -155,7 +159,9 @@
             "message": "Congratulations for 1M subscribers, Bae! I'm always looking forward to see you sing and dance on the stage, your performance is always amazing! Keep doing your best and love you, Bae! ",
             "media": {
                 "is_youtube": false,
-                "path": null
+                "path": null,
+                "width": null,
+                "height": null
             }
         },
         {
@@ -227,7 +233,9 @@
             "message": "Hi Bae, congrats on getting a million subs! You're my favourite rat of all time, and I look forward to more fun and chaos!",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/29e4738a7a459b6001f90407ad285475.jpg"
+                "path": "public/images/messages/29e4738a7a459b6001f90407ad285475.jpg",
+                "width": 2450,
+                "height": 2030
             }
         },
         {
@@ -263,7 +271,9 @@
             "message": "It's no exaggeration that when Psycho came out, it set in motion a lot of change in my life. Because of that song I flew to America from England to see Connect the World; I was no longer just a casual fan like I had thought. Being more in the community I was able to meet a bunch of new people, people with the same interests as me and people that won't judge me for what I like. Thank you for everything, ペールズ ❤️🎲",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/3eab2c715f257daa27e0097d96f69f5b.jpg"
+                "path": "public/images/messages/3eab2c715f257daa27e0097d96f69f5b.jpg",
+                "width": 1260,
+                "height": 2048
             }
         },
         {
@@ -281,8 +291,9 @@
             "sender_title": "Longer of Freedom.",
             "message": "CONGRATS BAE!!! I love you so much, I was disappointed I couldnt catch you at 5th fes and I was devastated when I couldnt go to dreamhack. But then my prayers were answered and YOU CAME RIGHT TO MY HOME IN SINGAPORE!!! I was just over the moon the day SOAR was announced. Your workaholic attitude makes me aspire to work hard like you too! (I am very lazy) P.S. Im the brat whose plushie landed on the side of the basket in Singapore! Smol but a memory I will cherish forever. ",
             "media": {
-                "is_youtube": false,
-                "path": null
+                "is_youtube": true,
+                "path": null,
+                "video_id": "3Q2FwvpkdEY"
             }
         },
         {
@@ -461,8 +472,11 @@
             "sender_title": "The Brat of Dojima",
             "message": "Along with Kiryu Kazuma, You’ve been one of my biggest inspirations to be creative (i.e making song covers and doing fight choreography videos). How convenient it was for me when you started playing the Yakuza games back in Dec 2023! From watching you perform and chat, I learned the real value of chuuni: Without it, you lose your sense of childlike wonder, something we could all use. I hope we can see you continue to put in 110% (after taking the proper rest lol).",
             "media": {
-                "is_youtube": false,
-                "path": null
+                "is_youtube": true,
+                "path": null,
+                "video_id": "zZhyeaw148k",
+                "clip_id": "UgkxoU-oDWWVS7FrMm8ZXA6sTQ5JGiYt2U56",
+                "clipt": "EKv6kwEYgN6WAQ"
             }
         },
         {
@@ -544,8 +558,11 @@
             "sender_title": "Grand Scholar of Chaos Theory",
             "message": "Congratulations to the one and only Harbinger of Chaos, the end of ends, the steel rose trapped in a cage of ice!\n\nYou have ascended to the legendary milestone of 1 million WITNESSES to the tempest of chaos that is you, Hakos Baelz! Your indomitable spirit and unwavering tenacity has forged a glorious path to greatness! We of the Rat Pack will follow you with great pride!\n\n¡plɹoʍ ǝɥʇ ǝʞɐɥs llɐɥs no⅄ ˙ɹǝpɹo lɐɹnʇɐu ǝɥʇ sdɹnsn oɥʍ ǝɥs 'ǝsᴉɹ oʇ ǝnuᴉʇuoƆ\n\n(On a scale of 1 to 10 how chuuni was that?)",
             "media": {
-                "is_youtube": false,
-                "path": null
+                "is_youtube": true,
+                "path": null,
+                "video_id": "wpLoluuK_I4",
+                "clip_id": "Ugkxj4Waj_k3z6Aep0gUF4Nzp1doue9q8y1v",
+                "clipt": "EKix_gIY8OT-Ag"
             }
         },
         {
@@ -572,8 +589,11 @@
             "sender_title": "Rogue Rat Hoshiyomi, Member of the Sewer Rats Family, a Rat Pack Subsidary",
             "message": "Bae became my oshi after her first 3D appearance in 4th Fes! Since then, I've embraced every choreo that she creates and/or performs. After New York, I've come to realize how much she really means to me; not just in her choreo, but also in her immense talent, the way she talks, the hard work she puts in... and so much more.\n\nTo Bae: I wish I could've been there for the beginning of your journey. Even then, please let me show you my support now. You deserve to know how much your brats love you!",
             "media": {
-                "is_youtube": false,
-                "path": null
+                "is_youtube": true,
+                "path": null,
+                "video_id": "UxvmtB-G-SI",
+                "clip_id": "UgkxbS5IQz25qDuBLPYqaJ2a6gvwE8YmDNns",
+                "clipt": "EOmXzAIYsJnOAg"
             }
         },
         {
@@ -618,7 +638,9 @@
             "message": "Congrats on reaching 1 million subs! I knew this day would come eventually and I am so proud of you for reaching this goal. Truth be told I was a lurker for a really long time but seeing you perform, being able to meet you at a meet and greet, watching you give everything your all and never back down from a challenge inspired me to become a bigger part of the community. \n\nYour courage and determination never ceases to amaze and make me want to do better. Thanks Worldwide Rat Idol, My Kamioshi, love you Bae!",
             "media": {
                 "is_youtube": false,
-                "path": null
+                "path": "public/images/messages/b0bce31b770ff7c8a99d5cebc6baee81.png",
+                "width": 4500,
+                "height": 6750
             }
         },
         {
@@ -636,7 +658,9 @@
             "message": "WIP I DUNNO WHAT TO WRITE YET AAAAAAAAAAAA",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/477644f27edf5acf7372bcaa30b5147e.jpg"
+                "path": "public/images/messages/477644f27edf5acf7372bcaa30b5147e.jpg",
+                "width": 4096,
+                "height": 2271
             }
         },
         {
@@ -690,7 +714,9 @@
             "message": "Hi Bae! Happy 1 million! What a crazy journey it has been! I've been a member for a little more than 2 years but I think in my heart I've been a fan since your debut. One day it had dawned upon me, what the hell am I doing? I've never missed a single stream of this girls' since her debut. Every zatsudan a joy, every gaming stream a great time, every song a bop, it's been a pleasure to be one of your fans on this wild ride. Here's to much more, thank you for brightening up our days and our lives",
             "media": {
                 "is_youtube": false,
-                "path": null
+                "path": null,
+                "width": null,
+                "height": null
             }
         },
         {
@@ -845,7 +871,9 @@
             "message": "Watching you grow, shine, and embrace everything you’ve worked so hard for fills my heart with so much joy Bae! I still cannot believe I travelled half the world to se you and the brats at BD. the community you have build is so funny, welcoming and chaotic that I feel at home even if my english is not my first language. Please always remember that we're proud of you and that you have little brats in every corner of the world. I'm bad with words but I hope this drawing transmits my passion",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/279ae45a0fe5205413d94afb1bda9c90.png"
+                "path": "public/images/messages/279ae45a0fe5205413d94afb1bda9c90.png",
+                "width": 6007,
+                "height": 4000
             }
         },
         {
@@ -900,7 +928,9 @@
             "message": "Bae, you always say 1mil is like a dream, but here we are now. You got it. You achieve it! I know you can do it cuz you push yourself to the limit this year. Everything finally payoff now, I'm more than proud to Witness your success today. Never give up, life is rough sometimes, but we can make it together, Bae. I always will be here to support you for you're my kamioshi!(≧ω≦。)/",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/af6e2b510f281c3bef985a6f1939e8da.png"
+                "path": "public/images/messages/af6e2b510f281c3bef985a6f1939e8da.png",
+                "width": 3300,
+                "height": 2550
             }
         },
         {
@@ -936,7 +966,9 @@
             "message": "Brat of few words back again. Am I only going to show up for fan projects? Haha. It's not new, but here's a coloured version of that doodle Mumei did a while back. I also had a lot of fun working on this site. So I hope all the messages from the brats and the rest of the site helps make the 1M celebration just that more joyful. Congrats on 1M subscribers, and here's to many more rats to come!",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/0c97966420e09884ee4df37dc4dfdc17.jpg"
+                "path": "public/images/messages/0c97966420e09884ee4df37dc4dfdc17.jpg",
+                "width": 1280,
+                "height": 527
             }
         },
         {
@@ -991,7 +1023,9 @@
             "message": "Congrats on this reaching this huge milestone Bae 2M here we come! ♥️💛🩵🤍🖤",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/249204e507c37ed5fac9269f007a73d0.jpg"
+                "path": "public/images/messages/249204e507c37ed5fac9269f007a73d0.jpg",
+                "width": 2048,
+                "height": 2048
             }
         },
         {
@@ -1018,7 +1052,9 @@
             "message": "べ〜ちゃん！100万人！すご！おめでとう〜！かっこよくて可愛くて、いつも頑張ってるべ〜ちゃんは私の憧れです。何回大好きって言っても言いきれないくらいべ〜ちゃんのことすっごく大好き！！♡♡♡べ〜ちゃんのいろんな夢が叶いますように、夢を叶えるために頑張ってるべ〜ちゃんのことこれからもたくさん応援するからね！べ〜ちゃんいつもありがとう！(៸៸> <៸៸)",
             "media": {
                 "is_youtube": false,
-                "path": null
+                "path": null,
+                "width": null,
+                "height": null
             }
         },
         {
@@ -1027,7 +1063,9 @@
             "message": "チャンネル登録者100万人おめでとう！🎉最推しのべーちゃんがどんどん有名になって本当に嬉しいことこの上ないです！！べーちゃんから元気をいっぱい貰っている身として、これからもいっぱい応援するよ！活動頑張ってね！！",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/5ce0f817d4a61f1e6c97cedc4355b4f5.jpg"
+                "path": "public/images/messages/5ce0f817d4a61f1e6c97cedc4355b4f5.jpg",
+                "width": 2048,
+                "height": 2048
             }
         },
         {
@@ -1064,7 +1102,9 @@
             "message": "Congratulations on one million subscriptions! It wasn't easy, you worked so hard, and you deserve it! Live broadcast brings me vitality, singing brings me shock and moved, you are my oshi, I am really honored. Forgive me if I'm not a good talker",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/e06eeb8491248b5a99bf946aa8f9879d.jpg"
+                "path": "public/images/messages/e06eeb8491248b5a99bf946aa8f9879d.jpg",
+                "width": 2480,
+                "height": 3508
             }
         },
         {
@@ -1082,7 +1122,9 @@
             "message": "Congratulations on reaching 1 million subscribers!! I’ll always be a fan supporting you.\nThank you for bringing us so much fun! Love you! ❤️",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/0c1db3bf93c32b907139eeb205609cbc.jpg"
+                "path": "public/images/messages/0c1db3bf93c32b907139eeb205609cbc.jpg",
+                "width": 1448,
+                "height": 2048
             }
         },
         {
@@ -1090,8 +1132,11 @@
             "sender_title": "BAELZ' LUCABUTT",
             "message": "From the day you jumped down from the rat wheel, you've always been head strong and resilient. These past 3 years I've seen this tiny cute rat turn into a dependable, dorky, loving and overall hardworking individual, that can easily crush any obstacle in her way. Things may get rough from time to time, but you got your lovely ladies and your loyal brats to back you up 100%. Keep your head up high and continue enjoying what you love, thanx for everything Bae<3",
             "media": {
-                "is_youtube": false,
-                "path": null
+                "is_youtube": true,
+                "path": null,
+                "video_id": "bcyx-7p3bvU",
+                "clip_id": "UgkxYQXlPhMWGlugr1nAUXSgxEEpIFQwi4h1",
+                "clipt": "ENT7uwgYv-68CA"
             }
         },
         {
@@ -1100,7 +1145,9 @@
             "message": "Congratulations on 1 million subs Bae!!!! I’ve been a huge fan since discovering you almost 2 years ago now. I am always so impressed by how much you do! I’m excited to see what the future holds! Next to 2 million!!!  \n\nCouldn’t be a more proud to be a Brat! ",
             "media": {
                 "is_youtube": false,
-                "path": "public/images/messages/c8ae5d8af345c2e2501ac53b9ce483fd.png"
+                "path": "public/images/messages/c8ae5d8af345c2e2501ac53b9ce483fd.png",
+                "width": 1752,
+                "height": 1752
             }
         },
         {
