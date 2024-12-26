@@ -60,7 +60,9 @@
       </div>
       {% elif msg.media.path -%}
       <div class="picture">
-        <img src="{{ msg.media.path }}" loading="lazy">
+        <a href="{{ msg.media.path }}" target="_blank">
+          <img src="{{ msg.media.path }}" loading="lazy">
+        </a>
       </div>
       {% endif -%}
       <p>{{msg.message}}</p>
